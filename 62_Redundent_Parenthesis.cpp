@@ -10,9 +10,11 @@ O/P:
 1.(A+(B+C))
 There is NO EXTRA parenthesis.
 
+
 2.((A+B))
 There is EXTRA Parenthesis.
 */
+
 
 int main(void)
 {
@@ -46,5 +48,6 @@ int main(void)
 		cout << "There is NO EXTRA parenthesis.";
 	else
 		cout << "There is EXTRA Parenthesis.";
+
 	return 0;
 }

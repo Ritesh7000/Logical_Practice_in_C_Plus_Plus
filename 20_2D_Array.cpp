@@ -82,6 +82,7 @@ int main(void)
 	}
 
 	int iNo;
+	
 	cout << "which number position you find = ";
 	cin >> iNo;
 
@@ -97,7 +98,6 @@ int main(void)
 		}
 		cout << endl;
 	}
-
 
 	return 0;
 }

@@ -4,6 +4,7 @@ using namespace std;
 
 
 /*
+
 2 power aslele number.
 1 (2^0)
 2 (2^1)
@@ -17,6 +18,7 @@ using namespace std;
 512 (2^9)
 1024 (2^10)
 
+
 */
 
 int isPowerOf2(int n)
@@ -27,7 +29,6 @@ int isPowerOf2(int n)
 int main(void)
 {
 	int iNo;
- 
 	cin >> iNo;
 
 	if(iNo == 0)
